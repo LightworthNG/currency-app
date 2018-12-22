@@ -1,0 +1,42 @@
+{
+	"name": "iHOLDit App",
+	"short_name": "iHOLDApp",
+	"description": "A simple currency converter app from iHOLDit",
+	"background_color": "#660066",
+	"theme_color": "#f9f9f9",
+	"start_url": ".",
+	"display": "standalone",
+	"orientation": "portrait",
+	"icons": [
+		{
+			"type": "image/png",
+			"sizes": "48x48",
+			"src": "/img/icons/app-icon-48x48.png"
+		},
+		{
+			"type": "image/png",
+			"sizes": "72x72",
+			"src": "/img/icons/app-icon-72x72.png"
+        },
+        {
+			"type": "image/png",
+			"sizes": "96x96",
+			"src": "/img/icons/app-icon-96x96.png"
+        },
+        {
+			"type": "image/png",
+			"sizes": "144x144",
+			"src": "/img/icons/app-icon-144x144.png"
+        },
+        {
+			"type": "image/png",
+			"sizes": "192x192",
+			"src": "/img/icons/app-icon-192x192.png"
+        },
+        {
+			"type": "image/png",
+			"sizes": "512x512",
+			"src": "/img/icons/app-icon-512x512.png"
+		}
+	]
+}
